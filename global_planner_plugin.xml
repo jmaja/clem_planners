@@ -1,0 +1,5 @@
+<library path="lib/libclem_global_planner_lib">
+  <class name="clem_planner/GlobalPlanner" type="clem_planner::GlobalPlanner" base_class_type="nav_core::BaseGlobalPlanner">
+    <description>CLEM Global Planner</description>
+  </class>
+</library>
